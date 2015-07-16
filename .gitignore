@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+**/.idea/*
+**/gradle.properties
+*.ipr
+*.iws
+*.iml
+target/
